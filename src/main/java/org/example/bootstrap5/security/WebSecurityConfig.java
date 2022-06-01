@@ -1,4 +1,4 @@
-package org.example.bootstrap5.configs;
+package org.example.bootstrap5.security;
 
 import org.example.bootstrap5.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
